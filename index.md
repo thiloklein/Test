@@ -174,7 +174,7 @@ Das KitaMatch-Verfahren verbindet die Wünsche von Eltern nach Betreuungsplätze
   </div>
 </section>
 
-## Unsere Projekte
+## Unsere Partner
 
 {:style="text-align:center;"}
 [![Stadt-Kaiserslautern_logo.png](assets/images/Stadt-Kaiserslautern_logo.png){:height="150px" width="150px"}](https://www.kaiserslautern.de/buerger_rathaus_politik/medienportal/pressemitteilungen/060195/index.html.de)
